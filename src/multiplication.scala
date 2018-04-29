@@ -1,4 +1,5 @@
-class multiplication {
+class multiplication 
+{
   def multab(tblnum: Int) =  
 {
    var tab = 0
@@ -10,7 +11,8 @@ class multiplication {
  }
 }
 
-object multi {
+object multi 
+{
 def main(args:Array[String])
   {
     var x = new multiplication
