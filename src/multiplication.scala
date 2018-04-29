@@ -10,7 +10,7 @@ class multiplication {
  }
 }
 
-object Call_class {
+object multi {
 def main(args:Array[String])
   {
     var x = new multiplication

@@ -12,6 +12,3 @@ def main(args:Array[String])
     x.print()
   }
 }
-
-
-
